@@ -10,11 +10,5 @@ Rust is kewl.
 ## mandelbrot
  Program to generate `mandelbrot.png`.
  
- The Mandelbrot set is defined as the set of complex numbers `c` for which the sequence of a function `f(z) = z^2 + c`
- remains bounded by some absolute value `n` such that `n > 0`
- 
- For example, this sequence would be bounded by some nonzero absolute value.
- `f(0), f(f(0)), f(f(f(0))), ...`
- 
- The image is generated through checking if a pixel (or point) belongs to the set,
- if it does, it colors the pixel black.
+ References:
+ [_The Mandelbrot Set_](https://en.wikipedia.org/wiki/Mandelbrot_set)
