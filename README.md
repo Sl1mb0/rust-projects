@@ -9,7 +9,7 @@ Rust is kewl.
  Uses `actix` Rust library.
 
 ## mandelbrot
- Program to generate `mandelbrot.png`.
+ Program that uses multithreading to generate a mandelbrot fractal.
  
  References:
  [_The Mandelbrot Set_](https://en.wikipedia.org/wiki/Mandelbrot_set)
